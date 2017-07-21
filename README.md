@@ -5,6 +5,8 @@ TODO: export to other formats, i.e.: jpg, png, pdf
 
 ## Usage:
 
+First, clone or create a folder called **pyrecharts** with all files. Then fire up your script or notebook. See example below. 
+
 ![sample](sample.png)
 
 

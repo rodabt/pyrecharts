@@ -1,11 +1,5 @@
 # pyrecharts
 
-<<<<<<< HEAD
-## Description
-=======
-TODO: More graphs!
->>>>>>> f84368abd1f08a4731423fe86164b28faabf2ec6
-
 pyrecharts (Python Ready Charts) is an opinionated charting library for easy reporting in Jupyter Notebooks and scripts, considering visualization and business communication best practices and standards. 
 
 **TODO**:

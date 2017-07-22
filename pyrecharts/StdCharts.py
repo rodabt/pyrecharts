@@ -3,7 +3,7 @@ from wand.image import Image
 class StdCharts(object):
 
     def __init__(self):
-        self.__version__ = '0.1'
+        pass
 
     def save(obj,filename):
         svg = b'%b' % obj.encode('utf8')
